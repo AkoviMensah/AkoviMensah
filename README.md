@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I am **Akovi Mensah** working at **Infosys**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Web development, Dotnet Core Web Api, RESTfull API’s,AWS, Entity Framework, Postman, Functional Testing, PSD to HTML**. Strong engineering professional with a Bachelor of Computer Computer Science focused in Algorithms and data structures from University of Wisconsin-Madison.
+I am **Akovi Mensah** working at **Infosys**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Web development, Dotnet Core Web Api, RESTfull API’s,AWS, Entity Framework, Postman, Functional Testing**. Strong engineering professional with a Bachelor of Computer Computer Science focused in Algorithms and data structures from University of Wisconsin-Madison.
 
 
 ---

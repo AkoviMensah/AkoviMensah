@@ -11,7 +11,7 @@ I am **Akovi Mensah** working at **Infosys**. I am an Experienced **Fullstack De
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for help to learn about advanced React concepts
 - 💬 Ask me about **Web Api**
-- ⚡ Fun fact about me, I can speak in 5 languages.
+- ⚡ Fun fact about me, I can speak in 5 languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkoviMensah&layout=compact&theme=dark&hide_border=true)
 

@@ -13,6 +13,4 @@ I am **Akovi Mensah** working at **Infosys**. I am an Experienced **Fullstack De
 - 💬 Ask me about **Web Api**
 - ⚡ Fun fact about me, I can speak in 5 languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkoviMensah&layout=compact&theme=dark&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akovimensah)](https://github.com/akovimensah/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkoviMensah)](https://github.com/AkoviMensah/github-readme-stats)

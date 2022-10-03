@@ -9,7 +9,6 @@ I am **Akovi Mensah** working at **Infosys**. I am an Experienced **Fullstack De
 - 🔭 I’m currently working at **Infosys**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help to learn about Microservices
 - 💬 Ask me about **Restfull Api**
 - ⚡ Fun fact about me, I can speak in 5 languages
 

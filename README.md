@@ -9,7 +9,7 @@ I am **Akovi Mensah** working at **Infosys**. I am a **Software Engineer** with 
 - 🔭 I’m currently working at **Infosys**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about **React Hooks**
+- 💬 Ask me about **Web APIs**
 - ⚡ Fun fact about me, I can speak in 5 languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkoviMensah)](https://github.com/AkoviMensah/github-readme-stats)
